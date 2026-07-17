@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome to intership</title>
+    </head>
+    <body>
+        <a>Hey</a>
+        <b>My</b>
+        <i>Name</i>
+        <code>Is</code>
+        <u>Aryan</u>
+    </body>
+</html>
